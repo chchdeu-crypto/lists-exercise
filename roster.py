@@ -22,3 +22,8 @@
 scores = [42,17,95,8,61]
 print(max(scores))
 print(min(scores))
+#mission 10
+new_scors = scores.copy()
+new_scors[0] = "11"
+print(scores)
+print(new_scors)
