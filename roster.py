@@ -7,3 +7,6 @@ print(agents[0],agents[4])
 print(agents[2])
 #number 4
 print(agents[1:4])
+#number 5
+agents.append("foxtrot")
+print(agents)
