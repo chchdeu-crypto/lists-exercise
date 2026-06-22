@@ -19,3 +19,6 @@ items.remove("x")
 items.remove("x")
 items.remove("x")
 print(items)
+#mission 4
+data = [1,2,3,4,5,]
+print(data[0::2])
