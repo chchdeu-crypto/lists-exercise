@@ -13,3 +13,6 @@ print(agents)
 #mission 6
 agents.insert(2,"zulu")
 print(agents)
+# mission 7
+agents.remove("bravo")
+print(agents)
