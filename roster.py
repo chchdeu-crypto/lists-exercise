@@ -10,3 +10,6 @@ print(agents[1:4])
 #number 5
 agents.append("foxtrot")
 print(agents)
+#mission 6
+agents.insert(2,"zulu")
+print(agents)
