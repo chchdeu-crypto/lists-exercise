@@ -16,3 +16,5 @@ print(agents)
 # mission 7
 agents.remove("bravo")
 print(agents)
+#mission 8
+print(len(agents))
